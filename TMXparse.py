@@ -30,7 +30,7 @@ class TMXparse(object):
                 self.image = pygame.Surface(
                     [self.columns * self.tile_width, self.rows * self.tile_height]).convert()
                 tileset = tree.find('tileset/image')
-                self.tileimagepath = tileset.attrib['source']
+                self.tileimagepath = os.path.join('images',tileset.attrib['source'])
                 backgroundimage = tree.find('properties/property')
                 self.background_image = backgroundimage.attrib['value']
 

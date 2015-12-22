@@ -26,7 +26,7 @@ class Maps(object):
         # load background image
         self.background = pygame.image.load(os.path.join('images', self.mapparse.getbackground_image())).convert()
         # load the tilesets
-        self.mytileset = Tileset(os.path.join('images', self.mapparse.tileimagepath))
+        self.mytileset = Tileset(self.mapparse.tileimagepath)
         self.mytileset.loadsheet(self.mapparse.tile_width, self.mapparse.tile_height)
         self.add_layer_to_group("Background")
         # add baddys  #

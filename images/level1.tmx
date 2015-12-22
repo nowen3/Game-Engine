@@ -4,7 +4,7 @@
   <property name="Backgroung Image" value="level1_background.png"/>
  </properties>
  <tileset firstgid="1" name="spritesheet-nick" tilewidth="25" tileheight="25">
-  <image source="../../Platform/images/spritesheet-nick.png" trans="ffffff" width="300" height="250"/>
+  <image source="spritesheet-nick.png" trans="ffffff" width="300" height="250"/>
   <tile id="1">
    <properties>
     <property name="1" value="200"/>
