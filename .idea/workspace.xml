@@ -5,36 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="119844a3-74af-436e-a308-11e3b1c4b2a8" name="Default" comment="Pygame platform game">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Slug.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/level1_background.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/p1_walk.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/slug1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/slug2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/spritesheet-nick.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/title_background.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/misc/platform-block.psd" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/misc/platform-brick.psd" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/misc/platform-brick1.psd" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/misc/slug.psd" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/misc/slug1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/misc/slug2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/Game Engine.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Constants.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Main.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Map.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyTileset.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Platform.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TMXparse.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Bad.tsx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/level1.tmx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/level2.tmx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Map.py" afterPath="$PROJECT_DIR$/Map.py" />
     </list>
     <ignored path="Game Engine.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -45,7 +17,7 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="true" />
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
   </component>
@@ -55,10 +27,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Main.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Main.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.80756015">
+            <state vertical-scroll-proportion="0.0">
               <caret line="45" column="32" selection-start-line="45" selection-start-column="22" selection-end-line="45" selection-end-column="32" />
               <folding>
                 <element signature="e#43#57#0" expanded="true" />
@@ -99,11 +71,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Map.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Map.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Map.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="131" column="20" selection-start-line="131" selection-start-column="20" selection-end-line="131" selection-end-column="20" />
+            <state vertical-scroll-proportion="1.605428">
+              <caret line="131" column="0" selection-start-line="131" selection-start-column="0" selection-end-line="131" selection-end-column="0" />
               <folding>
                 <element signature="e#0#14#0" expanded="true" />
               </folding>
@@ -137,7 +109,7 @@
         <entry file="file://$PROJECT_DIR$/Platform.py">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="65" column="0" selection-start-line="65" selection-start-column="0" selection-end-line="65" selection-end-column="0" />
+              <caret line="93" column="0" selection-start-line="93" selection-start-column="0" selection-end-line="93" selection-end-column="0" />
               <folding>
                 <element signature="e#0#13#0" expanded="true" />
               </folding>
@@ -416,16 +388,16 @@
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20803949" sideWeight="0.4929078" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27984086" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32934928" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2214854" sideWeight="0.50282085" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21099745" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32802126" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.18990704" sideWeight="0.49717912" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21087533" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3275862" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.18965517" sideWeight="0.49717912" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2496474" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32891247" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.120592386" sideWeight="0.5070922" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.397878" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32934928" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -451,7 +423,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="14" />
+      <option name="time" value="16" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -910,10 +882,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="45" column="32" selection-start-line="45" selection-start-column="22" selection-end-line="45" selection-end-column="32" />
+          <folding>
+            <element signature="e#43#57#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Platform.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="65" column="0" selection-start-line="65" selection-start-column="0" selection-end-line="65" selection-end-column="0" />
+          <caret line="93" column="0" selection-start-line="93" selection-start-column="0" selection-end-line="93" selection-end-column="0" />
           <folding>
             <element signature="e#0#13#0" expanded="true" />
           </folding>
@@ -922,20 +904,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Map.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="131" column="20" selection-start-line="131" selection-start-column="20" selection-end-line="131" selection-end-column="20" />
+        <state vertical-scroll-proportion="1.605428">
+          <caret line="131" column="0" selection-start-line="131" selection-start-column="0" selection-end-line="131" selection-end-column="0" />
           <folding>
             <element signature="e#0#14#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.80756015">
-          <caret line="45" column="32" selection-start-line="45" selection-start-column="22" selection-end-line="45" selection-end-column="32" />
-          <folding>
-            <element signature="e#43#57#0" expanded="true" />
           </folding>
         </state>
       </provider>
