@@ -126,10 +126,11 @@ class Maps(object):
             bad_x = bad.get_x
             bad_y = bad.get_y
             tile = self.get_tile_from_cords(bad_x, bad_y)
-            bad.update(tile)
             for badcol in self.Baddy_list.sprites():
-                if bad_x - badcol.get_x > 5:
-                    bad.update(1)
+                if bad_x - badcol.get_x > 25 or bad_x - badcol.get_x < -25 :
                     badcol.update(1)
+                    bad.update(1)
+            bad.update(tile)
+
 
 

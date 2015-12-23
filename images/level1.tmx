@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<map version="1.0" orientation="orthogonal" renderorder="right-down" width="32" height="24" tilewidth="25" tileheight="25" backgroundcolor="#55ffff" nextobjectid="19">
+<map version="1.0" orientation="orthogonal" width="32" height="24" tilewidth="25" tileheight="25" backgroundcolor="#55ffff">
  <properties>
   <property name="Backgroung Image" value="level1_background.png"/>
  </properties>
@@ -2337,10 +2337,10 @@
    <tile gid="0"/>
   </data>
  </layer>
- <objectgroup name="Object_Baddy">
-  <object id="11" name="Bad2" type="Slug" x="223" y="549" width="25" height="25"/>
-  <object id="17" name="Bad1" type="Slug" x="316" y="549" width="25" height="25"/>
-  <object id="18" name="Bad3" type="Slug" x="114" y="548" width="25" height="25"/>
+ <objectgroup name="Object_Baddy" width="0" height="0">
+  <object name="Bad2" type="Slug" x="200" y="550" width="25" height="25"/>
+  <object name="Bad1" type="Slug" x="300" y="550" width="25" height="25"/>
+  <object name="Bad3" type="Slug" x="100" y="550" width="25" height="25"/>
  </objectgroup>
- <objectgroup name="Object_player"/>
+ <objectgroup name="Object_player" width="0" height="0"/>
 </map>
