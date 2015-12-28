@@ -68,7 +68,7 @@ class MovingBaddy(BaseBad):
             else:
                 self.change_x = 1
                 self.image = pygame.transform.flip(self.image, True, False)
-         # Move left/right
+        # Move left/right
         self.rect.x += self.change_x
         # Move up/down
         self.rect.y += self.change_y
