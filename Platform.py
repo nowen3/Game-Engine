@@ -51,13 +51,13 @@ class BaseBad(pygame.sprite.Sprite):
         self.rect = self.image.get_rect()
         self.rect.x = x
         self.rect.y = y
+        self.xpos = x
+        self.ypos = y
 
 
 class MovingBaddy(BaseBad):
     change_x = 1
     change_y = 0
-    xpos = 0
-    ypos = 0
     change = 0
 
     def update(self, hit):
